@@ -42,5 +42,5 @@ B.Sc – Jiwaji University, Gwalior
 CGPA: 8.1 / 10
 
 ## 📫 Connect With Me
-LinkedIn: https://linkedin.com/in/umakant-katare
+LinkedIn: https://linkedin.com/in/umakant-katare <br/>
 Email: umakantkatare11@gmail.com
