@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi 👋 I'm Umakant Katare
 
-<!--
-**umakantkatare/umakantkatare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer specializing in **React.js** with experience building scalable and responsive web applications.
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- React.js
+- Redux Toolkit
+- Tailwind CSS
+- REST APIs
+- Axios / Fetch
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tools
+- Git
+- GitHub
+- Visual Studio Code
+
+## 📌 Projects
+
+### Ecommerce Application
+React | Tailwind CSS | Redux Toolkit | Axios
+
+- Built a responsive ecommerce platform with product listing and cart management
+- Implemented Redux Toolkit for state management
+- Integrated REST APIs for dynamic product data
+- Created reusable custom hooks to reduce code redundancy
+
+### Admin Dashboard
+React | Redux Toolkit | Charts
+
+- Developed an analytics dashboard for sales tracking
+- Implemented real-time filtering for product performance
+- Built interactive charts for data visualization
+
+## 📜 Certification
+JavaScript (Basic) — HackerRank (2025)
+
+## 🎓 Education
+B.Sc – Jiwaji University, Gwalior  
+CGPA: 8.1 / 10
+
+## 📫 Connect With Me
+LinkedIn: https://linkedin.com/in/umakant-katare
+Email: umakantkatare11@gmail.com
