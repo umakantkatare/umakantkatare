@@ -1,79 +1,78 @@
 # Hi 👋 I'm Umakant Katare
 
-MERN Stack Developer with hands-on experience building scalable and responsive full-stack web applications using **MongoDB, Express.js, React.js, and Node.js**. Passionate about writing clean, maintainable code and building performant user experiences.
+MERN Stack Developer with hands-on experience building scalable and responsive full-stack web applications using **MongoDB, Express.js, React.js, and Node.js**[cite: 1]. Skilled in backend architecture, REST API development, authentication mechanisms, and front-end performance optimization[cite: 1].
+
+---
 
 ## 🚀 Tech Stack
 
-### Frontend
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-- React.js
-- Redux Toolkit
-- Tailwind CSS
-- Responsive Design
+### Languages & Frontend
+- **Languages:** JavaScript (ES6+), HTML5, CSS3[cite: 1]
+- **Libraries/Frameworks:** React.js, Redux Toolkit[cite: 1]
+- **UI & Styling:** Tailwind CSS, ShadCN UI, Responsive Web Design[cite: 1]
+- **Routing:** React Router DOM[cite: 1]
 
-### Backend
-- Node.js
-- Express.js
+### Backend & Databases
+- **Runtime & Framework:** Node.js, Express.js[cite: 1]
+- **Databases:** MongoDB (with Mongoose), MySQL[cite: 1]
 
-### Database
-- MongoDB
-
-### APIs & Authentication
-- REST APIs
-- JWT Authentication
-- RBAC (Role-Based Access Control)
-- Axios / Fetch API
-
-### Tools
-- Git
-- GitHub
-- Postman
-- Visual Studio Code
+### Cloud, APIs & Tools
+- **Cloud & Media:** Cloudinary, ImageKit[cite: 1]
+- **APIs & Auth:** RESTful APIs, JWT Authentication, Role-Based Access Control (RBAC)[cite: 1]
+- **HTTP Clients:** Axios (Interceptors), Fetch API[cite: 1]
+- **Tools & Platforms:** Git, GitHub, Postman, Visual Studio Code[cite: 1]
+- **Deployment:** Vercel, Render[cite: 1]
 
 ---
 
 ## 📌 Projects
 
 ### 🎓 Learning Management System (LMS)
-**MERN Stack | Redux Toolkit | JWT | ImageKit**
+**MERN Stack | Redux Toolkit | JWT | Razorpay | Cloudinary | ImageKit | ShadCN UI**[cite: 1]
 
-- Developed a full-stack LMS platform with scalable architecture
-- Implemented secure authentication & authorization using JWT and RBAC
-- Built REST APIs for users, courses, enrollment, and admin management
-- Integrated ImageKit for cloud image upload and media optimization
-- Used Redux Toolkit with async thunks for state management
-- Designed responsive UI for seamless learning experience
+👉 **[Live Demo](https://lms-frontend-phi-pied.vercel.app/)** | **[GitHub Repository](https://github.com/umakantkatare/Learning-Management-System)**[cite: 1]
+
+- **Architecture:** Engineered scalable backend services using Node.js, Express.js, and MongoDB, developing **20+ REST API endpoints** to seamlessly manage course creation, enrollment, lecture delivery, and role-based progress tracking[cite: 1].
+- **Authentication:** Implemented secure, industry-standard authentication and authorization workflows utilizing **JWT and Role-Based Access Control (RBAC)**[cite: 1].
+- **Payment Integration:** Integrated **Razorpay Payment Gateway** to facilitate secure course purchases, instant payment verification, and automated enrollment workflows[cite: 1].
+- **State & UI:** Developed an interactive, responsive user interface using React.js, Redux Toolkit, and ShadCN UI to enhance user experiences across desktop and mobile devices[cite: 1].
+- **Media Optimization:** Integrated Cloudinary and ImageKit for cloud media storage, **reducing image load times by 30-40%** and improving overall app performance[cite: 1].
 
 ---
 
 ### 🛒 Ecommerce Web Application
-**React.js | Redux Toolkit | Tailwind CSS | Axios | REST API**
+**React.js | Redux Toolkit | Tailwind CSS | Axios | REST API | Vercel**[cite: 1]
 
-- Developed a fully responsive ecommerce frontend application
-- Implemented cart management, product filtering, and search using Redux Toolkit
-- Integrated external REST APIs using Axios with interceptors
-- Built reusable custom hooks for forms and data fetching
-- Implemented protected routes and persistent login state
+👉 **[Live Demo](https://ecommerce-pi-jet-76.vercel.app/)** | **[GitHub Repository](https://github.com/umakantkatare/Ecommerce)**[cite: 1]
+
+- **Frontend & Deployment:** Created a fully responsive ecommerce platform using React.js and Tailwind CSS; deployed the application on **Vercel** with an optimized production build for maximized responsiveness[cite: 1].
+- **State Management:** Efficiently managed application state with **Redux Toolkit** to drive core features including cart operations, multi-criteria product filtering, and persistent search functionality[cite: 1].
+- **API Performance:** Integrated external REST APIs using Axios and **request interceptors**, reducing dynamic data load times by **30%**[cite: 1].
+- **Code Optimization:** Crafted reusable custom React hooks for API interaction and form validation, significantly improving code maintainability[cite: 1].
 
 ---
 
 ## 📜 Certifications
 
-**JavaScript (Basic)** — HackerRank (2025)
+*   **JavaScript (Basic)** — HackerRank (2025)[cite: 1]
+    *   *Demonstrated strong understanding of core concepts: Functions, Scope, Hoisting, Events, and Error Handling.*[cite: 1]
 
 ---
 
 ## 🎓 Education
 
-**Bachelor of Science (B.Sc.)**  
-Jiwaji University, Gwalior  
-CGPA: **8.1 / 10**
+*   **Bachelor of Science (B.Sc.)**  
+    Jiwaji University, Gwalior (Graduated: 2024)[cite: 1]  
+    **CGPA: 8.1 / 10**[cite: 1]
+*   **Higher Secondary Education (Class XII - Science PCM)**  
+    New Millennium H.S. School (MP Board, 2021)[cite: 1]  
+    **Percentage: 81.8%**[cite: 1]
 
 ---
 
 ## 📫 Connect With Me
 
-- LinkedIn: https://linkedin.com/in/umakant-katare
-- Email: umakantkatare11@gmail.com
+- **Email:** umakantkatare11@gmail.com[cite: 1]
+- **LinkedIn:** [linkedin.com/in/umakant-katare](https://linkedin.com/in/umakant-katare)[cite: 1]
+- **GitHub:** [github.com/umakantkatare](https://github.com/umakantkatare)[cite: 1]
+- **Phone:** +91-8982339663[cite: 1]
