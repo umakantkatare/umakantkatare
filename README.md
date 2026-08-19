@@ -1,78 +1,154 @@
 # Hi 👋 I'm Umakant Katare
 
-MERN Stack Developer with hands-on experience building scalable and responsive full-stack web applications using **MongoDB, Express.js, React.js, and Node.js**. Skilled in backend architecture, REST API development, authentication mechanisms, and front-end performance optimization.
+**MERN Stack Developer** with hands-on experience building scalable web applications using **MongoDB, Express.js, React.js, and Node.js**. Skilled in **REST API development, backend architecture, authentication, Role-Based Access Control (RBAC), and performance optimization**.
 
 ---
 
 ## 🚀 Tech Stack
 
-### Languages & Frontend
-- **Languages:** JavaScript (ES6+), HTML5, CSS3
-- **Libraries/Frameworks:** React.js, Redux Toolkit
-- **UI & Styling:** Tailwind CSS, ShadCN UI, Responsive Web Design
-- **Routing:** React Router DOM
+### 💻 Languages
 
-### Backend & Databases
-- **Runtime & Framework:** Node.js, Express.js
-- **Databases:** MongoDB (with Mongoose), MySQL
+* **JavaScript (ES6+)**
+* **HTML5**
+* **CSS3**
 
-### Cloud, APIs & Tools
-- **Cloud & Media:** Cloudinary, ImageKit
-- **APIs & Auth:** RESTful APIs, JWT Authentication, Role-Based Access Control (RBAC)
-- **HTTP Clients:** Axios (Interceptors), Fetch API
-- **Tools & Platforms:** Git, GitHub, Postman, Visual Studio Code
-- **Deployment:** Vercel, Render
+### 🎨 Frontend
+
+* **React.js**
+* **Redux Toolkit**
+* **Tailwind CSS**
+* **React Router DOM**
+* **ShadCN UI**
+* **Responsive Web Design**
+
+### ⚙️ Backend
+
+* **Node.js**
+* **Express.js**
+* **RESTful APIs**
+* **JWT Authentication**
+* **Role-Based Access Control (RBAC)**
+
+### 🗄️ Database & Cloud
+
+* **MongoDB**
+* **Mongoose**
+* **MySQL**
+* **Cloudinary**
+* **ImageKit**
+
+### 🛠️ Tools & Platforms
+
+* **Git**
+* **GitHub**
+* **Postman**
+* **Axios**
+* **Fetch API**
+* **Visual Studio Code**
+
+### ☁️ Deployment
+
+* **Vercel**
+* **Render**
 
 ---
 
-## 📌 Projects
+## 📌 Featured Projects
 
 ### 🎓 Learning Management System (LMS)
-**MERN Stack | Redux Toolkit | JWT | Razorpay | Cloudinary | ImageKit | ShadCN UI**
 
-👉 **[Live Demo](https://lms-frontend-phi-pied.vercel.app/)** | **[GitHub Repository](https://github.com/umakantkatare/Learning-Management-System)**
+**MERN Stack | Redux Toolkit | JWT | Razorpay | ImageKit | Cloudinary | ShadCN UI**
 
-- **Architecture:** Engineered scalable backend services using Node.js, Express.js, and MongoDB, developing **20+ REST API endpoints** to seamlessly manage course creation, enrollment, lecture delivery, and role-based progress tracking.
-- **Authentication:** Implemented secure, industry-standard authentication and authorization workflows utilizing **JWT and Role-Based Access Control (RBAC)**.
-- **Payment Integration:** Integrated **Razorpay Payment Gateway** to facilitate secure course purchases, instant payment verification, and automated enrollment workflows.
-- **State & UI:** Developed an interactive, responsive user interface using React.js, Redux Toolkit, and ShadCN UI to enhance user experiences across desktop and mobile devices.
-- **Media Optimization:** Integrated Cloudinary and ImageKit for cloud media storage, **reducing image load times by 30-40%** and improving overall app performance.
+👉 **[Live Demo](https://lms-frontend-phi-pied.vercel.app/)**
+👉 **[GitHub Repository](https://github.com/umakantkatare/Learning-Management-System)**
+
+* Developed a full-stack **Learning Management System** using the MERN stack with **20+ REST API endpoints**.
+* Implemented secure **JWT-based authentication** with **Role-Based Access Control (RBAC)** for multiple user roles.
+* Integrated **Razorpay Payment Gateway** for secure course purchases, payment verification, and automated enrollment workflows.
+* Engineered scalable backend services using **Node.js, Express.js, and MongoDB** for course creation, enrollment, lecture delivery, and progress tracking.
+* Built responsive and interactive interfaces using **React.js, Redux Toolkit, Tailwind CSS, and ShadCN UI**.
+* Integrated **Cloudinary and ImageKit** to optimize media delivery, reducing image load times by **30–40%**.
 
 ---
 
 ### 🛒 Ecommerce Web Application
+
 **React.js | Redux Toolkit | Tailwind CSS | Axios | REST API | Vercel**
 
-👉 **[Live Demo](https://ecommerce-pi-jet-76.vercel.app/)** | **[GitHub Repository](https://github.com/umakantkatare/Ecommerce)**
+👉 **[Live Demo](https://ecommerce-pi-jet-76.vercel.app/)**
+👉 **[GitHub Repository](https://github.com/umakantkatare/Ecommerce)**
 
-- **Frontend & Deployment:** Created a fully responsive ecommerce platform using React.js and Tailwind CSS; deployed the application on **Vercel** with an optimized production build for maximized responsiveness.
-- **State Management:** Efficiently managed application state with **Redux Toolkit** to drive core features including cart operations, multi-criteria product filtering, and persistent search functionality.
-- **API Performance:** Integrated external REST APIs using Axios and **request interceptors**, reducing dynamic data load times by **30%**.
-- **Code Optimization:** Crafted reusable custom React hooks for API interaction and form validation, significantly improving code maintainability.
+* Created a fully responsive ecommerce application using **React.js and Tailwind CSS** for a seamless experience across multiple devices.
+* Deployed the application on **Vercel** with an optimized production build for improved responsiveness and performance.
+* Used **Redux Toolkit** for efficient state management, including cart operations, product filtering, and search functionality.
+* Integrated external **REST APIs using Axios and request interceptors** to fetch dynamic product data, reducing load times by **30%**.
+* Developed reusable custom React hooks for **API handling and form validation**, improving code maintainability and reusability.
 
 ---
 
-## 📜 Certifications
+## 📜 Certification
 
-* **JavaScript (Basic)** — HackerRank (2025)
-  * *Demonstrated strong understanding of core concepts: Functions, Scope, Hoisting, Events, and Error Handling.*
+### JavaScript (Basic) — HackerRank | 2025
+
+Demonstrated understanding of JavaScript fundamentals including:
+
+* Functions
+* Scope
+* Hoisting
+* Events
+* Error Handling
 
 ---
 
 ## 🎓 Education
 
-* **Bachelor of Science (B.Sc.)**  
-  Jiwaji University, Gwalior (Graduated: 2024)  
-  **CGPA: 8.1 / 10**
-* **Higher Secondary Education (Class XII - Science PCM)**  
-  New Millennium H.S. School (MP Board, 2021)  
-  **Percentage: 81.8%**
+### MERN Full Stack Development
+
+**Ducat IT Training School**
+**October 2025 – Present**
+
+### Bachelor of Science (B.Sc.)
+
+**Jiwaji University, Gwalior**
+Graduated: **2024**
+**CGPA: 8.1 / 10**
+
+### Higher Secondary Education — Class XII (Science PCM)
+
+**New Millennium H.S. School — MP Board**
+Year: **2021**
+**Percentage: 81.8%**
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=umakantkatare&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=umakantkatare&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
 ## 📫 Connect With Me
 
-- **Email:** umakantkatare11@gmail.com
-- **LinkedIn:** [linkedin.com/in/umakant-katare](https://linkedin.com/in/umakant-katare)
-- **GitHub:** [github.com/umakantkatare](https://github.com/umakantkatare)
-- **Phone:** +91-8982339663
+* 📧 **Email:** [umakantkatare11@gmail.com](mailto:umakantkatare11@gmail.com)
+* 💼 **LinkedIn:** [linkedin.com/in/umakant-katare](https://linkedin.com/in/umakant-katare)
+* 💻 **GitHub:** [github.com/umakantkatare](https://github.com/umakantkatare)
+* 📱 **Phone:** +91-8982339663
+
+---
+
+## 🚀 Currently Focused On
+
+* Building scalable **MERN Stack applications**
+* Improving **backend architecture and REST API design**
+* Strengthening **JavaScript and TypeScript**
+* Learning and implementing modern **full-stack development practices**
+
+---
+
+### ⭐ If you find my projects useful, consider giving them a star!
