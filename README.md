@@ -90,13 +90,12 @@
 
 ### JavaScript (Basic) — HackerRank | 2025
 
-Demonstrated understanding of JavaScript fundamentals including:
+Strong understanding of JavaScript fundamentals including:
 
 * Functions
 * Scope
 * Hoisting
 * Events
-* Error Handling
 
 ---
 
@@ -118,18 +117,6 @@ Graduated: **2024**
 **New Millennium H.S. School — MP Board**
 Year: **2021**
 **Percentage: 81.8%**
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=umakantkatare&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=umakantkatare&theme=tokyonight&hide_border=true" />
-
-</div>
 
 ---
 
