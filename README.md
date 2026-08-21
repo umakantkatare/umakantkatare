@@ -1,6 +1,6 @@
 # Hi 👋 I'm Umakant Katare
 
-**MERN Stack Developer** with hands-on experience building scalable web applications using **MongoDB, Express.js, React.js, and Node.js**. Skilled in **REST API development, backend architecture, authentication, Role-Based Access Control (RBAC), and performance optimization**.
+**MERN Stack Developer** with hands-on experience building scalable and responsive web applications using **MongoDB, Express.js, React.js, and Node.js**. Skilled in **REST API development, backend architecture, authentication, Role-Based Access Control (RBAC), state management, and performance optimization**.
 
 ---
 
@@ -59,14 +59,14 @@
 
 **MERN Stack | Redux Toolkit | JWT | Razorpay | ImageKit | Cloudinary | ShadCN UI**
 
-👉 **[Live Demo](https://lms-frontend-phi-pied.vercel.app/)**
+👉 **[Live Demo](https://lms-frontend-phi-pied.vercel.app/)**  
 👉 **[GitHub Repository](https://github.com/umakantkatare/Learning-Management-System)**
 
 * Developed a full-stack **Learning Management System** using the MERN stack with **20+ REST API endpoints**.
 * Implemented secure **JWT-based authentication** with **Role-Based Access Control (RBAC)** for multiple user roles.
-* Integrated **Razorpay Payment Gateway** for secure course purchases, payment verification, and automated enrollment workflows.
-* Engineered scalable backend services using **Node.js, Express.js, and MongoDB** for course creation, enrollment, lecture delivery, and progress tracking.
-* Built responsive and interactive interfaces using **React.js, Redux Toolkit, Tailwind CSS, and ShadCN UI**.
+* Integrated **Razorpay Payment Gateway** for secure course purchases, payment verification, and automatic enrollment.
+* Built scalable backend services using **Node.js, Express.js, and MongoDB** for course creation, enrollment, lecture delivery, and progress tracking.
+* Created responsive and interactive interfaces using **React.js, Redux Toolkit, Tailwind CSS, and ShadCN UI**.
 * Integrated **Cloudinary and ImageKit** to optimize media delivery, reducing image load times by **30–40%**.
 
 ---
@@ -75,11 +75,11 @@
 
 **React.js | Redux Toolkit | Tailwind CSS | Axios | REST API | Vercel**
 
-👉 **[Live Demo](https://ecommerce-pi-jet-76.vercel.app/)**
+👉 **[Live Demo](https://ecommerce-pi-jet-76.vercel.app/)**  
 👉 **[GitHub Repository](https://github.com/umakantkatare/Ecommerce)**
 
-* Created a fully responsive ecommerce application using **React.js and Tailwind CSS** for a seamless experience across multiple devices.
-* Deployed the application on **Vercel** with an optimized production build for improved responsiveness and performance.
+* Developed a fully responsive ecommerce application using **React.js and Tailwind CSS** for a smooth experience across different devices.
+* Deployed the application on **Vercel** with an optimized production build for improved performance and responsiveness.
 * Used **Redux Toolkit** for efficient state management, including cart operations, product filtering, and search functionality.
 * Integrated external **REST APIs using Axios and request interceptors** to fetch dynamic product data, reducing load times by **30%**.
 * Developed reusable custom React hooks for **API handling and form validation**, improving code maintainability and reusability.
@@ -90,7 +90,7 @@
 
 ### JavaScript (Basic) — HackerRank | 2025
 
-Strong understanding of JavaScript fundamentals including:
+Strong understanding of JavaScript fundamentals, including:
 
 * Functions
 * Scope
@@ -103,19 +103,19 @@ Strong understanding of JavaScript fundamentals including:
 
 ### MERN Full Stack Development
 
-**Ducat IT Training School**
+**Ducat IT Training School**  
 **October 2025 – Present**
 
 ### Bachelor of Science (B.Sc.)
 
-**Jiwaji University, Gwalior**
-Graduated: **2024**
+**Jiwaji University, Gwalior**  
+Graduated: **2024**  
 **CGPA: 8.1 / 10**
 
 ### Higher Secondary Education — Class XII (Science PCM)
 
-**New Millennium H.S. School — MP Board**
-Year: **2021**
+**New Millennium H.S. School — MP Board**  
+Year: **2021**  
 **Percentage: 81.8%**
 
 ---
