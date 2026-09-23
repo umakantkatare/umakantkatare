@@ -150,18 +150,18 @@ Topics include:
 
 # 🎓 Education
 
+### MERN Full Stack Development
+
+**Ducat IT Training School**
+
+* October 2025 – Present
+
 ### Bachelor of Science — B.Sc.
 
 **Jiwaji University, Gwalior**
 
 * Graduated: **2024**
 * CGPA: **8.1 / 10**
-
-### MERN Full Stack Development
-
-**Ducat IT Training School**
-
-* October 2025 – Present
 
 ### Class XII — Science (PCM)
 
