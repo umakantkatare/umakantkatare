@@ -1,6 +1,12 @@
 # Hi 👋 I'm Umakant Katare
 
-**MERN Stack Developer** with hands-on experience building scalable and responsive web applications using **MongoDB, Express.js, React.js, and Node.js**. Skilled in **REST API development, backend architecture, authentication, Role-Based Access Control (RBAC), state management, and performance optimization**.
+### MERN Stack Developer | React.js | Node.js | Express.js | MongoDB
+
+I’m a **MERN Stack Developer and 2024 B.Sc. graduate** with hands-on experience building full-stack web applications using **React.js, Node.js, Express.js, and MongoDB**.
+
+I enjoy building **responsive user interfaces, REST APIs, authentication systems, and database-driven applications** while continuously improving my understanding of modern web development.
+
+Currently looking for an **entry-level / fresher opportunity** where I can contribute to real-world projects and grow as a full-stack developer.
 
 ---
 
@@ -8,134 +14,187 @@
 
 ### 💻 Languages
 
-* **JavaScript (ES6+)**
-* **HTML5**
-* **CSS3**
+* JavaScript (ES6+)
+* HTML5
+* CSS3
 
 ### 🎨 Frontend
 
-* **React.js**
-* **Redux Toolkit**
-* **Tailwind CSS**
-* **React Router DOM**
-* **ShadCN UI**
-* **Responsive Web Design**
+* React.js
+* Redux Toolkit
+* React Router DOM
+* Tailwind CSS
+* ShadCN UI
+* Responsive Web Design
 
 ### ⚙️ Backend
 
-* **Node.js**
-* **Express.js**
-* **RESTful APIs**
-* **JWT Authentication**
-* **Role-Based Access Control (RBAC)**
+* Node.js
+* Express.js
+* REST APIs
+* JWT Authentication
+* Role-Based Access Control (RBAC)
+* Middleware
 
-### 🗄️ Database & Cloud
+### 🗄️ Database & Storage
 
-* **MongoDB**
-* **Mongoose**
-* **MySQL**
-* **Cloudinary**
-* **ImageKit**
+* MongoDB
+* Mongoose
+* MySQL
+* Cloudinary
+* ImageKit
 
-### 🛠️ Tools & Platforms
+### 🛠️ Tools
 
-* **Git**
-* **GitHub**
-* **Postman**
-* **Axios**
-* **Fetch API**
-* **Visual Studio Code**
+* Git
+* GitHub
+* Postman
+* Axios
+* Fetch API
+* VS Code
 
 ### ☁️ Deployment
 
-* **Vercel**
-* **Render**
+* Vercel
+* Render
 
 ---
 
-## 📌 Featured Projects
+# 📌 Featured Projects
 
-### 🎓 Learning Management System (LMS)
+## 🎓 Learning Management System (LMS)
 
-**MERN Stack | Redux Toolkit | JWT | Razorpay | ImageKit | Cloudinary | ShadCN UI**
+**MERN Stack · Redux Toolkit · JWT · Razorpay · ImageKit · Cloudinary · ShadCN UI**
 
-👉 **[Live Demo](https://lms-frontend-phi-pied.vercel.app/)**  
-👉 **[GitHub Repository](https://github.com/umakantkatare/Learning-Management-System)**
+🔗 **[Live Demo](https://lms-frontend-phi-pied.vercel.app/)**
+🔗 **[GitHub Repository](https://github.com/umakantkatare/Learning-Management-System)**
 
-* Developed a full-stack **Learning Management System** using the MERN stack with **20+ REST API endpoints**.
-* Implemented secure **JWT-based authentication** with **Role-Based Access Control (RBAC)** for multiple user roles.
-* Integrated **Razorpay Payment Gateway** for secure course purchases, payment verification, and automatic enrollment.
-* Built scalable backend services using **Node.js, Express.js, and MongoDB** for course creation, enrollment, lecture delivery, and progress tracking.
-* Created responsive and interactive interfaces using **React.js, Redux Toolkit, Tailwind CSS, and ShadCN UI**.
-* Integrated **Cloudinary and ImageKit** to optimize media delivery, reducing image load times by **30–40%**.
+A full-stack Learning Management System built to practice and implement real-world MERN stack concepts.
 
----
+### What I built
 
-### 🛒 Ecommerce Web Application
+* 🔐 User authentication using JWT
+* 👤 Role-Based Access Control
+* 📚 Course creation and management
+* 🎥 Lecture and learning-content management
+* 💳 Razorpay payment integration
+* 📝 Payment verification and course enrollment
+* 🖼️ Image and media management using Cloudinary/ImageKit
+* 🔄 Redux Toolkit for state management
+* 🌐 RESTful APIs using Node.js and Express.js
+* 📱 Responsive React.js interface
+* 🛡️ Protected routes and API middleware
 
-**React.js | Redux Toolkit | Tailwind CSS | Axios | REST API | Vercel**
+### Technologies
 
-👉 **[Live Demo](https://ecommerce-pi-jet-76.vercel.app/)**  
-👉 **[GitHub Repository](https://github.com/umakantkatare/Ecommerce)**
-
-* Developed a fully responsive ecommerce application using **React.js and Tailwind CSS** for a smooth experience across different devices.
-* Deployed the application on **Vercel** with an optimized production build for improved performance and responsiveness.
-* Used **Redux Toolkit** for efficient state management, including cart operations, product filtering, and search functionality.
-* Integrated external **REST APIs using Axios and request interceptors** to fetch dynamic product data, reducing load times by **30%**.
-* Developed reusable custom React hooks for **API handling and form validation**, improving code maintainability and reusability.
+**React.js · Node.js · Express.js · MongoDB · Redux Toolkit · JWT · Razorpay · Tailwind CSS**
 
 ---
 
-## 📜 Certification
+## 🛒 Ecommerce Web Application
 
-### JavaScript (Basic) — HackerRank | 2025
+**React.js · Redux Toolkit · Tailwind CSS · Axios · REST API**
 
-Strong understanding of JavaScript fundamentals, including:
+🔗 **[Live Demo](https://ecommerce-pi-jet-76.vercel.app/)**
+🔗 **[GitHub Repository](https://github.com/umakantkatare/Ecommerce)**
+
+A responsive ecommerce application built to practice frontend development, state management, and API integration.
+
+### What I built
+
+* 🛍️ Product listing and product details
+* 🔎 Product search and filtering
+* 🛒 Shopping cart functionality
+* 🔄 Redux Toolkit state management
+* 🌐 REST API integration using Axios
+* 🧩 Reusable React components
+* 📱 Responsive design
+* 🚀 Deployed using Vercel
+
+### Technologies
+
+**React.js · Redux Toolkit · Tailwind CSS · Axios · REST APIs**
+
+---
+
+# 📚 What I’m Learning
+
+Currently improving my skills in:
+
+* ⚛️ Advanced React.js
+* 🟦 TypeScript
+* 🟢 Node.js & Express.js
+* 🔐 Authentication & Authorization
+* 🗄️ Database Design
+* 🌐 REST API Development
+* 🏗️ Full-Stack Application Architecture
+* ☁️ Deployment & Cloud Technologies
+
+---
+
+# 📜 Certification
+
+### JavaScript (Basic) — HackerRank
+
+**2025**
+
+Topics include:
 
 * Functions
 * Scope
 * Hoisting
 * Events
+* JavaScript Fundamentals
 
 ---
 
-## 🎓 Education
+# 🎓 Education
+
+### Bachelor of Science — B.Sc.
+
+**Jiwaji University, Gwalior**
+
+* Graduated: **2024**
+* CGPA: **8.1 / 10**
 
 ### MERN Full Stack Development
 
-**Ducat IT Training School**  
-**October 2025 – Present**
+**Ducat IT Training School**
 
-### Bachelor of Science (B.Sc.)
+* October 2025 – Present
 
-**Jiwaji University, Gwalior**  
-Graduated: **2024**  
-**CGPA: 8.1 / 10**
+### Class XII — Science (PCM)
 
-### Higher Secondary Education — Class XII (Science PCM)
+**New Millennium H.S. School — MP Board**
 
-**New Millennium H.S. School — MP Board**  
-Year: **2021**  
-**Percentage: 81.8%**
+* 2021
+* **81.8%**
 
 ---
 
-## 📫 Connect With Me
+# 🎯 Career Goal
 
-* 📧 **Email:** [umakantkatare11@gmail.com](mailto:umakantkatare11@gmail.com)
-* 💼 **LinkedIn:** [linkedin.com/in/umakant-katare](https://linkedin.com/in/umakant-katare)
-* 💻 **GitHub:** [github.com/umakantkatare](https://github.com/umakantkatare)
-* 📱 **Phone:** +91-8982339663
+I’m looking for an **entry-level Frontend / React.js / MERN Stack Developer opportunity** where I can:
 
----
-
-## 🚀 Currently Focused On
-
-* Building scalable **MERN Stack applications**
-* Improving **backend architecture and REST API design**
-* Strengthening **JavaScript and TypeScript**
-* Learning and implementing modern **full-stack development practices**
+* Work on real-world applications
+* Learn from experienced developers
+* Improve my problem-solving skills
+* Write clean and maintainable code
+* Contribute to a development team
+* Grow into a strong full-stack developer
 
 ---
 
-### ⭐ If you find my projects useful, consider giving them a star!
+# 📫 Connect With Me
+
+📧 **Email:** [umakantkatare11@gmail.com](mailto:umakantkatare11@gmail.com)
+
+💼 **LinkedIn:** [linkedin.com/in/umakant-katare](https://linkedin.com/in/umakant-katare)
+
+💻 **GitHub:** [github.com/umakantkatare](https://github.com/umakantkatare)
+
+---
+
+### ⭐ Thanks for visiting my profile!
+
+I’m continuously learning, building projects, and improving my development skills.
